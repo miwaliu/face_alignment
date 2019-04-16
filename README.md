@@ -1,5 +1,7 @@
 # face_alignment
 
+https://blog.csdn.net/kklots/article/details/79548150
+
 2018.5.31: update the trainning scripts.
 
 a implement of face alignment.
